@@ -8,7 +8,6 @@
 ---
 
 > 💬 <em>"Fluent in clean syntax, messy commits, and passionate semicolons."</em>  
-> — Probably me, late at night.
 
 ---
 
