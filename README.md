@@ -57,5 +57,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</em>
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
 </p>
